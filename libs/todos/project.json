@@ -1,0 +1,9 @@
+{
+  "name": "todos",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/todos/src",
+  "prefix": "esol",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
